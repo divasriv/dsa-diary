@@ -14,13 +14,23 @@ For each number, check if diff (target - num) is already in the dictionary.
 If it is, we've found our pair, return indexes of diff and num.
 If not found, return -1.
 '''
+from typing import List
+# @lc app=leetcode id=1 lang=python3
+# [1] Two Sum
+# @lc code=start
+class Solution:
+    '''
+    Given an array of integers nums and an integer target,
+    return indices of the two numbers such that they add up to target.
+    '''
+    def two_sum(self, nums: List[int], target: int) -> List[int]:
+        '''Return indices of the two numbers such that they add up to target'''
+        hashmap={}
+        for i,num in enumerate(nums):
+            diff = target - num
+            if diff in hashmap:
+                return hashmap[diff], i
+            hashmap[num] = i
+        return -1
 
-def twosum(nums, target):
-    '''Return indices of the two numbers such that they add up to target'''
-    hashmap={}
-    for i,num in enumerate(nums):
-        diff = target - num
-        if diff in hashmap:
-            return hashmap[diff], i
-        hashmap[num] = i
-    return -1
+# @lc code=end
