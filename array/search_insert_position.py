@@ -21,10 +21,12 @@ from typing import List
 # @lc code=start
 class Solution:
     '''
-    Given a sorted arr of distinct integers and a target value, return the index if the target is found.
+    Given a sorted arr of distinct integers and a target value
+    return the index if the target is found.
     '''
     def search_insert(self, nums: List[int], target: int) -> int:
-        '''Return the index of the target if found, else return the index where it would be inserted'''
+        '''Return the index of the target if found
+        else return the index where it would be inserted'''
         l,r=0,len(nums)-1
         while l<=r:
             mid=(l+r)//2
