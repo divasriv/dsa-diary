@@ -18,7 +18,6 @@ Built with Python. Fueled by coffee and chaos.
 
 - To understand **DSA deeply**, not just solve for the green tick
 - To learn by doing, breaking, and fixing
-- To have a **clean portfolio** I can show during interviews
 
 ---
 
