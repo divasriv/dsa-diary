@@ -18,17 +18,18 @@ Built with Python. Fueled by coffee and chaos.
 
 - To understand **DSA deeply**, not just solve for the green tick
 - To learn by doing, breaking, and fixing
-- To have a **clean portfolio** I can show during interviews
 
 ---
 
 ## 🚀 Problem Log
 
-| #  | Title                         | Topic       | Link                                                                 | Notes                  |
-|----|-------------------------------|-------------|----------------------------------------------------------------------|------------------------|
-| 1  | Two Sum                       | Arrays      | [LC #1](https://leetcode.com/problems/two-sum/)                      | Hash map intro         |
-| 2  | Find Pivot Index              | Prefix Sum  | [LC #724](https://leetcode.com/problems/find-pivot-index/)           | First prefix sum logic |
-| ...| _More to come_                |             |                                                                      |                        |
+| #  | Title                             | Topic       | Link                                                                         |
+|----|-----------------------------------|-------------|------------------------------------------------------------------------------|
+| 1  | Two Sum                           | Arrays      | [LC #1](https://leetcode.com/problems/two-sum/)                              | 
+| 217| Contains Duplicate                | Arrays      | [LC #217](https://leetcode.com/problems/contains-duplicate/)                 | 
+| 26 | Remove Duplicate from sorted array| Arrays      | [LC #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  |
+| 27 | Remove Element                    | Arrays      | [LC #27](https://leetcode.com/problems/remove-element/)                      |
+| 35 | Search Insert Position            | Arrays      | [LC #35](https://leetcode.com/problems/search-insert-position/)              |
 
 ---
 
@@ -47,7 +48,6 @@ Built with Python. Fueled by coffee and chaos.
 - Hit consistent daily practice
 - Understand patterns, not memorize syntax
 - Document what I *learn*, not just what I *solve*
-- Make this a reference I’m proud to link in my resume
 
 ---
 
