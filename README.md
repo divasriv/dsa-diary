@@ -1,6 +1,6 @@
 # 🧠 DSA Diary: My Problem-Solving Journey
 
-Welcome! This repo is my personal documentation of solving Data Structures and Algorithms (DSA) problems — from clueless to confident 😤  
+This repo is my personal documentation of solving Data Structures and Algorithms (DSA) problems — from clueless to confident.
 Built with Python. Fueled by coffee and chaos.
 
 ---
@@ -23,13 +23,17 @@ Built with Python. Fueled by coffee and chaos.
 
 ## 🚀 Problem Log
 
-| #  | Title                             | Topic       | Link                                                                         |
-|----|-----------------------------------|-------------|------------------------------------------------------------------------------|
-| 1  | Two Sum                           | Arrays      | [LC #1](https://leetcode.com/problems/two-sum/)                              | 
-| 217| Contains Duplicate                | Arrays      | [LC #217](https://leetcode.com/problems/contains-duplicate/)                 | 
-| 26 | Remove Duplicate from sorted array| Arrays      | [LC #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  |
-| 27 | Remove Element                    | Arrays      | [LC #27](https://leetcode.com/problems/remove-element/)                      |
-| 35 | Search Insert Position            | Arrays      | [LC #35](https://leetcode.com/problems/search-insert-position/)              |
+| #    | Title                             | Topic       | Link                                                                         |
+|------|-----------------------------------|-------------|------------------------------------------------------------------------------|
+| 1    | Two Sum                           | Arrays      | [LC #1](https://leetcode.com/problems/two-sum/)                              |
+| 217  | Contains Duplicate                | Arrays      | [LC #217](https://leetcode.com/problems/contains-duplicate/)                 |
+| 26   | Remove Duplicates from Sorted Array | Arrays   | [LC #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 27   | Remove Element                    | Arrays      | [LC #27](https://leetcode.com/problems/remove-element/)                      |
+| 35   | Search Insert Position            | Arrays      | [LC #35](https://leetcode.com/problems/search-insert-position/)              |
+| 66   | Plus One                          | Arrays      | [LC #66](https://leetcode.com/problems/plus-one/)                            |
+| 283  | Move Zeroes                       | Arrays      | [LC #283](https://leetcode.com/problems/move-zeroes/)                        |
+| 724  | Find Pivot Index                  | Arrays      | [LC #724](https://leetcode.com/problems/find-pivot-index/)                   |
+| 349  | Intersection of Two Arrays        | Arrays, Hash Table | [LC #349](https://leetcode.com/problems/intersection-of-two-arrays/)         |
 
 ---
 
@@ -51,5 +55,4 @@ Built with Python. Fueled by coffee and chaos.
 
 ---
 
-Let’s grind. Let’s grow.  
-**– Diva 🐍**
+**– Diva 💫**
