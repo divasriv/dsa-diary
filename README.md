@@ -34,6 +34,7 @@ Built with Python. Fueled by coffee and chaos.
 | 283  | Move Zeroes                       | Arrays      | [LC #283](https://leetcode.com/problems/move-zeroes/)                        |
 | 724  | Find Pivot Index                  | Arrays      | [LC #724](https://leetcode.com/problems/find-pivot-index/)                   |
 | 349  | Intersection of Two Arrays        | Arrays, Hash Table | [LC #349](https://leetcode.com/problems/intersection-of-two-arrays/)         |
+| 350  | Intersection of Two Arrays        | Dict, Hash Map | [LC #350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)         |
 
 ---
 
