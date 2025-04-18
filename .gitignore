@@ -1,0 +1,10 @@
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*.tmp
+*.log
+*.tmp
+*.bak
+*.old
+.DS_Store
