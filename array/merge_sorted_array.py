@@ -23,7 +23,6 @@ def merge(nums1, m, nums2, n):
 Optimised:
 Two pointer approach
 
-
 '''
 from typing import List
 # @lc app=leetcode id=88 lang=python3
@@ -37,17 +36,17 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        i = m - 1  # pointer at end of nums1's valid elements
-        j = n - 1  # pointer at end of nums2
-        k = m + n - 1  # pointer at end of nums1's total length
-
-        while j >= 0:
-            if i >= 0 and nums1[i] > nums2[j]:
-                nums1[k] = nums1[i]
-                i -= 1
-            else:
-                nums1[k] = nums2[j]
-                j -= 1
-            k -= 1
+        i=m-1   #first pointer at end of nums1 (till real values)
+        j=n-1   #second pointer at end of nums2
+        k=(m+n)-1   #third pointer at end of nums1 (extra space/ 0's)
+        while j>=0: #while j pointer not at start of nums2
+            if i>=0 and nums1[i]>nums2[j]: #if i pointer not at start of nums2 and nums1[i]>nums2[j]
+                nums1[k]=nums1[i] #put nums1[i] at end of nums1
+                i-=1 #move i to left
+            else: #nums2[j]>nums1[i]
+                nums1[k]=nums2[j] #put nums1[i] at end of nums1
+                j-=1 #move j to left
+            k-=1 #move k to left 0, run loop again
+        #no return cuz in-place merge, but return nums1 would give sorted nums1
 
 # @lc code=end
