@@ -24,7 +24,6 @@ from typing import List
 class Solution:
     def single_number(self, nums: List[int]) -> int:
         #freq mapping method -
-
         # count={}
         # for n in nums:
         #     count[n]=count.get(n,0)+1
