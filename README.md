@@ -34,7 +34,16 @@ Built with Python. Fueled by coffee and chaos.
 | 283  | Move Zeroes                       | Arrays      | [LC #283](https://leetcode.com/problems/move-zeroes/)                        |
 | 724  | Find Pivot Index                  | Arrays      | [LC #724](https://leetcode.com/problems/find-pivot-index/)                   |
 | 349  | Intersection of Two Arrays        | Arrays, Hash Table | [LC #349](https://leetcode.com/problems/intersection-of-two-arrays/)         |
-| 350  | Intersection of Two Arrays        | Dict, Hash Map | [LC #350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)         |
+| 350  | Intersection of Two Arrays II         | Dict, Hash Map    | [LC #350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
+| 242  | Valid Anagram                         | Hash Table        | [LC #242](https://leetcode.com/problems/valid-anagram/)              |
+| 202  | Happy Number                          | Hash Table        | [LC #202](https://leetcode.com/problems/happy-number/)               |
+| 205  | Isomorphic Strings                    | Hash Table        | [LC #205](https://leetcode.com/problems/isomorphic-strings/)         |
+| 169  | Majority Element                      | Hash Table        | [LC #169](https://leetcode.com/problems/majority-element/)           |
+| 136  | Single Number                         | Hash Table        | [LC #136](https://leetcode.com/problems/single-number/)              |
+| 347  | Top K Frequent Elements               | Hash Table        | [LC #347](https://leetcode.com/problems/top-k-frequent-elements/)    |
+| 49   | Group Anagrams                        | Hash Table        | [LC #49](https://leetcode.com/problems/group-anagrams/)              |
+| 167  | Two Sum II - Input Array Is Sorted    | Two Pointers      | [LC #167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 344  | Reverse String                        | Two Pointers      | [LC #344](https://leetcode.com/problems/reverse-string/)             |
 
 ---
 
