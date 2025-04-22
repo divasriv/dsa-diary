@@ -11,3 +11,10 @@ Even if you're not explicitly using a `dict`, functions like `set()` and operati
 |-----|----------------------------|------------------------|
 | 349 | Intersection of Two Arrays | Sets, hash table logic |
 | 350 | Intersection of Two Arrays II | Hashmap / Dict |
+| 242 | Valid Anagram                  | Hashmap, character count    |
+| 136 | Single Number                  | Hashmap, XOR alternative    |
+| 169 | Majority Element               | Hashmap, Boyer-Moore        |
+| 205 | Isomorphic Strings             | Bi-directional HashMap      |
+| 202 | Happy Number                   | HashSet, Cycle detection    |
+| 347 | Top K Frequent Elements        | Hashmap + Heap              |
+| 49  | Group Anagrams                 | Hashmap, sorting as key     |

@@ -15,3 +15,6 @@ This folder contains problems tagged as **Arrays** on LeetCode.
 | 283  | Move Zeroes              | Two pointers, in-place swap      |
 | 724  | Pivot Index              | Prefix sum, math logic           |
 | 217  | Contains Duplicate       | Sets, brute force                |
+| 121 | Best Time to Buy and Sell Stock    | One-pass, greedy               |
+| 53  | Maximum Subarray                   | Kadane’s Algorithm             |
+| 88  | Merge Sorted Array                 | Two pointers, in-place merge   |
