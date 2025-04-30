@@ -13,7 +13,7 @@ Output: 0   # -2x0=0, -2x0x-1=0, 0x-1=0
 Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 
 This is a sliding window problem.
-need to track both min and max, cuz -ve x -ve can become +ve big number, -ve/+ve  x 0 = 0
+need to track both min and max, cuz -ve x -ve can become +ve big number, -ve/+ve x 0 = 0
 
 Approach:
 set min,max,result as first element
